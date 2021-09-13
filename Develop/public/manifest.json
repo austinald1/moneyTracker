@@ -1,0 +1,29 @@
+{
+    "lang": "en-us",
+    "name": "MoneyApp",
+    "short_name": "MoneyApp",
+    "description": "Transaction accounting app",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",        
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./icons/icon-512x512.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "./icons/icon-72x72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./icons/icon-96x96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./icons/icon-128x128.png",
+            "sizes": "128x128"
+        }
+    ]
+}
